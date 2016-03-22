@@ -1,28 +1,40 @@
-name: presstartup
-favicon: null
-layout_spectrum: 0.24723
-typography_spectrum: 0.45127
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#332c2a'
-    - '#71624e'
-    - '#e1a791'
-    - '#ffffff'
-    - '#d26d4b'
-  brandStrength: 0.8067498800810426
-  lightness: 0.6959732992108911
-  saturation: 0.5363109165336937
-  rhythmicContrast: 0.6923628831282258
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5363109165336937
+  brandStrength: 0.8276047
+  lightness: 0.6959732992108911
+  brandColors:
+    - '#BD4B01'
+    - '#030101'
+    - '#FF9B02'
+    - '#651F02'
+    - '#FDFEFB'
+  rhythmicContrast: 0.6923628831282258
+typography_spectrum: 0.4226638
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: presstartup
