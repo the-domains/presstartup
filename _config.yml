@@ -1,7 +1,7 @@
 name: presstartup
 favicon: null
-layout_spectrum: 0.1274028019979596
-typography_spectrum: 0.1443038242869079
+layout_spectrum: 0.24723
+typography_spectrum: 0.45127
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#332c2a'
+    - '#71624e'
+    - '#e1a791'
+    - '#ffffff'
+    - '#d26d4b'
   brandStrength: 0.8067498800810426
   lightness: 0.6959732992108911
   saturation: 0.5363109165336937
