@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PresStartUp]]></title>
         <description><![CDATA[PresStartUp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/presstartup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 14:34:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 11:23:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/presstartup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef6d0ba4-c049-4bc5-8e93-9f48123369e6.png">]]></description>
-            <link>undefinedverkisto/index.html</link>
+            <link>https://thegrid.ai/presstartup/verkisto/index.html</link>
             <guid isPermaLink="false">966f4fb7-86d2-48f4-b638-77ab89499934</guid>
-            <pubDate>Tue, 22 Mar 2016 14:34:31 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 11:23:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
